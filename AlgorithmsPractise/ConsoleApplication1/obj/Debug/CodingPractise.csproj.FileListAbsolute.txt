@@ -1,0 +1,5 @@
+E:\Github\AlgorithmsPractise\AlgorithmsPractise\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Github\AlgorithmsPractise\AlgorithmsPractise\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Github\AlgorithmsPractise\AlgorithmsPractise\ConsoleApplication1\obj\Debug\CodingPractise.csproj.CoreCompileInputs.cache
+E:\Github\AlgorithmsPractise\AlgorithmsPractise\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Github\AlgorithmsPractise\AlgorithmsPractise\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
