@@ -2,3 +2,8 @@
 AlgorithmsPractise/.vs/AlgorithmPractise/v15/Server/sqlite3/db.lock
 *.pdb
 *.exe
+*.ide-wal
+*.ide
+*.ide-shm
+*.lock
+*.dll
