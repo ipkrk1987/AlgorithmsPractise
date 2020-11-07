@@ -1,0 +1,8 @@
+E:\Github\AlgorithmsPractise\AlgorithmsPractise\ProgramingQuestions\bin\Debug\netstandard2.0\ProgramingQuestions.deps.json
+E:\Github\AlgorithmsPractise\AlgorithmsPractise\ProgramingQuestions\bin\Debug\netstandard2.0\ProgramingQuestions.dll
+E:\Github\AlgorithmsPractise\AlgorithmsPractise\ProgramingQuestions\bin\Debug\netstandard2.0\ProgramingQuestions.pdb
+E:\Github\AlgorithmsPractise\AlgorithmsPractise\ProgramingQuestions\obj\Debug\netstandard2.0\ProgramingQuestions.csproj.CoreCompileInputs.cache
+E:\Github\AlgorithmsPractise\AlgorithmsPractise\ProgramingQuestions\obj\Debug\netstandard2.0\ProgramingQuestions.AssemblyInfoInputs.cache
+E:\Github\AlgorithmsPractise\AlgorithmsPractise\ProgramingQuestions\obj\Debug\netstandard2.0\ProgramingQuestions.AssemblyInfo.cs
+E:\Github\AlgorithmsPractise\AlgorithmsPractise\ProgramingQuestions\obj\Debug\netstandard2.0\ProgramingQuestions.dll
+E:\Github\AlgorithmsPractise\AlgorithmsPractise\ProgramingQuestions\obj\Debug\netstandard2.0\ProgramingQuestions.pdb

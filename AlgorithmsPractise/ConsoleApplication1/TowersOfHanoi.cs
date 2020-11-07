@@ -5,10 +5,10 @@ using System.Text;
 
 namespace ConsoleApplication1
 {
-    static class TowersOfHanoi
+    public  class TowersOfHanoi
     {
         static int moves = 0;
-        public static void Solve()
+        public  void Solve()
         {
             int n = Convert.ToInt32(Console.ReadLine());
             SolveTowersOfHanoi(n, "T1", "T3", "T2");
@@ -34,9 +34,13 @@ namespace ConsoleApplication1
                 moves++;
                 // Move all from auxillary to from...using to as auxiallry
                 if (pegs > 2)
+                {
                     SolveTowersOfHanoi(pegs - 1, auxillary, from, to);
+                }
                 else // The last peg should move from auxillary to to.
+                {
                     SolveTowersOfHanoi(pegs - 1, auxillary, to, from);
+                }
             }
 
 

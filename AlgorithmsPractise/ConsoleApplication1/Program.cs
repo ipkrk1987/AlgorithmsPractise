@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using ProgramingQuestions;
+using System;
 
 namespace ConsoleApplication1
 {
@@ -10,8 +8,9 @@ namespace ConsoleApplication1
         static int moves = 0;
         static void Main(string[] args)
         {
-            TowersOfHanoi.Solve();
-           
+            ProgramingQuestions.TowersOfHanoi hanoi = new ProgramingQuestions.TowersOfHanoi();
+            hanoi.inputMethod+= Console.ReadLine;
+            hanoi.outputMethod += Console.WriteLine;
         }
 
 
